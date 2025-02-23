@@ -1,5 +1,5 @@
 notifications:
-  message: "Welcome to HopIn notifications related prod APIs "
+  message: "Welcome to HopIn notifications related prodd APIs "
   contactDetails:
     name: "Keylor Navas - Product Owner"
     email: "navas@hopin.com"
