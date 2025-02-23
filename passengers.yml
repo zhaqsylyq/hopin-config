@@ -1,5 +1,5 @@
 passengers:
-  message: "Welcome to HopIn passengers related local APIs "
+  message: "Welcome to HopIn passengers related locall APIs "
   contactDetails:
     name: "Daniel Carvajal - Developer"
     email: "{cipher}5a253968ee4cc11de9291eab30656e14fdc4ed2cfd39d537ce67236146e7e6299cf93b972ca5db2d8611b567b10cf27e"
